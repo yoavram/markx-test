@@ -1,7 +1,7 @@
 markx-test
 ==========
 
-just tests for markx
+just tests for markx [@Drake1991]
 
 nothing too interesting...
 
